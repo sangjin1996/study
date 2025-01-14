@@ -1,0 +1,43 @@
+
+- [ ] Time_wait 과 close_wait의 차이, 왜 필요한지
+- [ ] Nosql이 왜 관계형데이터베이스보다 빠른지
+- [ ] 왜 encodedUrl을 사용해야하는지
+- [ ] Collections API
+- [ ] Java로 singleton instance 만들어보기(코딩문제)
+- [ ] http와 https의 차이 (암호화되어 패킷 스니핑 당해도 키를 모르면 해독 불가)
+- [ ] GC가 필요한 이유와(minor gc, major gc, old generation, young generation) GC 알고리즘 종류
+- [ ] http와 tcp프로토콜의 연관성 (http는 스트링타입의 애플리케이션 레이어 프로토콜이고 tcp는 바이트타입의 트랜스포트 레이어 프로토콜. application에서 사용할 수 있도록 전송계층에서 받아서 변환시켜줌)
+- [ ] JDBC PreparedStatement 어쩌구
+- [ ] 인덱스는 자료구조로 따지면? 해쉬테이블이라고 대답함 x Balanced tree
+- [ ] Spring bean, DI, AOP
+- [ ] git revert 와 git reset의 차이 (로컬 취소명령 레포지토리 취소명령)
+- [ ] get과 post차이
+- [ ] Spring 에서 type validation실패시 상태코드는 뭐가 나올까? : 500번대 나옴
+- [ ] 톰캣에서 heap메모리 지정 할 때 max = min 로 설정하여 할당했는데 왜 그게 best practice인지?
+- [ ] DB 정규화
+- [ ] 마이크로서비스 아키텍쳐
+- [ ] ORM의 장단점
+- [ ] Kafka 에 대해서 알고 있는지
+- [ ] 스프링의 DI와 AOP 모듈화 어쩌구
+- [ ] 자료구조 나열하며 어느쪽이 빠를까
+- [ ] GC에 대해 아는 대로 (generation까지)
+- [ ] 자료구조: time complexity
+- [ ] 스프링 외부설정 관리 (우선순위, 응용법) 
+- [ ] STAR 구조: Situation , Task, Action, Result 각 항목별로 Clear 하게 답변
+- [ ] What is a Storage Tier? 
+- [ ] Difference between HTTP/HTTPS? 
+- [ ] What is the difference between TCP and UDP?
+- [ ] LDAP
+- [ ] Communication Protocol
+- [ ] Storage Tier
+- [ ] Resiliency
+- [ ] Scale
+- [ ] Services like Lambda
+- [ ] CloudWatch
+- [ ] 3Tears
+- [ ] OSI 7 layer
+- [ ] 전화면접 - 클라우드기술에 대해서, OS란? 등 
+- [ ] 1차면접 - 네트워크 관련 기본 지식들 
+- [ ] 3차면접 - 아마존 리더쉽과 관련된 내용들 (리스크가 큰 상황에서 의사결정을 해본 경험, 새로운 아이디어를 내 놓은 경험 등)
+
+
