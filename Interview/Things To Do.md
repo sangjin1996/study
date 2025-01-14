@@ -7,6 +7,12 @@
 - [ ] http와 https의 차이 (암호화되어 패킷 스니핑 당해도 키를 모르면 해독 불가)
 - [ ] GC가 필요한 이유와(minor gc, major gc, old generation, young generation) GC 알고리즘 종류
 - [ ] http와 tcp프로토콜의 연관성 (http는 스트링타입의 애플리케이션 레이어 프로토콜이고 tcp는 바이트타입의 트랜스포트 레이어 프로토콜. application에서 사용할 수 있도록 전송계층에서 받아서 변환시켜줌)
+- [ ] JVM 왜 쓰는지(장점)
+- [ ] Java를 쓰는 이유
+- [ ] Java가 느린데에 비해 이 느림을 극복하려는 노력(JIT 컴파일러)
+- [ ] 클러스터인덱스와 세컨더리인덱스 차이
+- [ ] 스프링이 bootstrap 하자마자 serve하는 api의 latency가 길어진 이유(spring warmup)
+- [ ] Equals와 HashCode
 - [ ] JDBC PreparedStatement 어쩌구
 - [ ] 인덱스는 자료구조로 따지면? 해쉬테이블이라고 대답함 x Balanced tree
 - [ ] Spring bean, DI, AOP
@@ -39,5 +45,6 @@
 - [ ] 전화면접 - 클라우드기술에 대해서, OS란? 등 
 - [ ] 1차면접 - 네트워크 관련 기본 지식들 
 - [ ] 3차면접 - 아마존 리더쉽과 관련된 내용들 (리스크가 큰 상황에서 의사결정을 해본 경험, 새로운 아이디어를 내 놓은 경험 등)
+- [ ] 
 
 
