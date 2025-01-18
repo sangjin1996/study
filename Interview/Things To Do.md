@@ -1,5 +1,7 @@
+질문은 우리를 움직이게 한다...!
 
 - [ ] Time_wait 과 close_wait의 차이, 왜 필요한지
+	- https://tech.kakao.com/posts/321
 - [ ] Nosql이 왜 관계형데이터베이스보다 빠른지
 - [ ] 왜 encodedUrl을 사용해야하는지
 - [ ] Collections API
@@ -48,3 +50,4 @@
 - [ ] 
 
 
++) https://github.com/WeareSoft/tech-interview
